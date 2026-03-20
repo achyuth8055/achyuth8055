@@ -45,7 +45,7 @@ A platform for working with images and PDFs, focused on simplicity, performance,
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/achyuth09  
+- 💼 LinkedIn: https://linkedin.com/in/achyuth07
 - 💻 LeetCode: https://leetcode.com/achyuth8055  
 
 ---
