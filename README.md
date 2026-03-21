@@ -55,7 +55,6 @@
 ### 🔹 [imageandpdf.com](https://imageandpdf.com)
 > A high-performance platform designed for working seamlessly with images and PDFs. 
 - **Focus:** Simplicity, high performance, and an intuitive user experience. 
-- *(Consider adding a few tech stack badges here specific to this project!)*
 
 ---
 
