@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Java+Developer;Master%27s+Student+%40+Lewis+University;Focused+on+Backend+%26+Scalable+Systems" alt="Typing SVG" /></a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/achyuth07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <!-- <a href="https://linkedin.com/in/achyuth07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
     <a href="https://leetcode.com/achyuth8055"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   </p>
 
