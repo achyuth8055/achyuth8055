@@ -24,7 +24,7 @@
 - 🔭 **Focus:** Backend development and scalable architecture.
 - 🌱 **Currently:** Preparing for FAANG-level interviews and mastering system design.
 - 🧠 **Mindset:** Always learning, building, and contributing to open source.
-- 🎓 **Education:** Pursuing my Master's at Lewis University.
+- 🎓 **Education:** Recent masters Grad Student.
 
 ---
 
