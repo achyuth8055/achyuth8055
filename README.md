@@ -50,11 +50,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 🔹 [imageandpdf.com](https://imageandpdf.com)
-> A high-performance platform designed for working seamlessly with images and PDFs. 
-- **Focus:** Simplicity, high performance, and an intuitive user experience. 
 
 ---
 
