@@ -13,10 +13,6 @@
 
 </div>
 
----
-
----
-
 ## 🚀 About Me
 
 > **"Building scalable systems and striving for clean code."**
