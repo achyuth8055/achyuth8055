@@ -20,7 +20,7 @@
 - 🔭 **Focus:** Backend development and scalable architecture.
 - 🌱 **Currently:** Preparing for FAANG-level interviews and mastering system design.
 - 🧠 **Mindset:** Always learning, building, and contributing to open source.
-- 🎓 **Education:** Recent masters Grad Student.
+- 🎓 **Education:**  Graduated.
 
 ---
 
